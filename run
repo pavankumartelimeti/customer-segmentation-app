@@ -1,0 +1,2 @@
+cd F:\git_hub\customer-segmentation-app
+streamlit run app.py
