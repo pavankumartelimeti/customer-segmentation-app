@@ -19,7 +19,6 @@ st.set_page_config(page_title="Customer Segmentation", layout="wide")
 # ----------------------------
 st.sidebar.title("📊 Navigation")
 st.sidebar.info("Customer Segmentation using RFM + KMeans")
-st.sidebar.markdown("Built for Data Science Portfolio 🚀")
 
 # ----------------------------
 # TITLE
